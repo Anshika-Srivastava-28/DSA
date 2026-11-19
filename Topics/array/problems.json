@@ -2,8 +2,30 @@
   "version": 1,
   "topic": {
     "slug": "array",
-    "name": "Array"
+    "name": "Array",
+    "tagId": "5"
   },
-  "updatedAt": "2026-09-29T08:39:41.408Z",
-  "problems": []
+  "updatedAt": "2026-11-19T11:21:54.148Z",
+  "problems": [
+    {
+      "frontendId": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "problemName": "0035-search-insert-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+      "folderPath": "0035-search-insert-position/",
+      "readmePath": "0035-search-insert-position/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0035-search-insert-position.java",
+          "path": "0035-search-insert-position/0035-search-insert-position.java",
+          "sha": "4378f38a8d5e9b903ba8da3a168c4f3510555274",
+          "lastSyncedAt": "2026-11-19T11:21:54.148Z"
+        }
+      ]
+    }
+  ]
 }
