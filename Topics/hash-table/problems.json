@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-22T17:19:01.299Z",
+  "updatedAt": "2026-11-22T17:31:01.488Z",
   "problems": [
     {
       "frontendId": "139",
@@ -44,6 +44,26 @@
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
           "sha": "e88d2555cad7a36aff7c81bf476bea74c1f8ef89",
           "lastSyncedAt": "2026-11-22T17:19:01.299Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "859",
+      "title": "Buddy Strings",
+      "slug": "buddy-strings",
+      "problemName": "0859-buddy-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/buddy-strings/",
+      "folderPath": "0859-buddy-strings/",
+      "readmePath": "0859-buddy-strings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0859-buddy-strings.java",
+          "path": "0859-buddy-strings/0859-buddy-strings.java",
+          "sha": "2b34719990b5b94ca2b8ec8f636826d2b0f70940",
+          "lastSyncedAt": "2026-11-22T17:31:01.488Z"
         }
       ]
     }
