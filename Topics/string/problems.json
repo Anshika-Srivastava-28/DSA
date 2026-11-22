@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-22T17:00:49.492Z",
+  "updatedAt": "2026-11-22T17:18:57.717Z",
   "problems": [
     {
       "frontendId": "139",
@@ -24,6 +24,26 @@
           "path": "0139-word-break/0139-word-break.java",
           "sha": "722281a2485256d3d0c6be9ae7f1079d1d4a18d0",
           "lastSyncedAt": "2026-11-22T17:00:49.492Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "0451-sort-characters-by-frequency/",
+      "readmePath": "0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0451-sort-characters-by-frequency.java",
+          "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
+          "sha": "e88d2555cad7a36aff7c81bf476bea74c1f8ef89",
+          "lastSyncedAt": "2026-11-22T17:18:57.717Z"
         }
       ]
     }
