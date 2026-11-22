@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-22T17:18:57.717Z",
+  "updatedAt": "2026-11-22T17:19:01.299Z",
   "problems": [
     {
       "frontendId": "139",
@@ -43,7 +43,7 @@
           "filename": "0451-sort-characters-by-frequency.java",
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
           "sha": "e88d2555cad7a36aff7c81bf476bea74c1f8ef89",
-          "lastSyncedAt": "2026-11-22T17:18:57.717Z"
+          "lastSyncedAt": "2026-11-22T17:19:01.299Z"
         }
       ]
     }
